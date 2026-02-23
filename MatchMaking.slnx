@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MatchMaking.Api/MatchMaking.Api.csproj" />
+    <Project Path="src/MatchMaking.Worker/MatchMaking.Worker.csproj" />
+  </Folder>
+</Solution>
